@@ -49,4 +49,4 @@ client.on('interactionCreate', async (interaction) => {
 });
 
 // บรรทัดสำคัญ: เอา Token บอทของ Master มาใส่ในเครื่องหมาย ' ' นะครับ
-client.login(process.env.TOKEN);
+client.login(process.env.TOKEN)
