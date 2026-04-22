@@ -49,4 +49,4 @@ client.on('interactionCreate', async (interaction) => {
 });
 
 // บรรทัดสำคัญ: เอา Token บอทของ Master มาใส่ในเครื่องหมาย ' ' นะครับ
-client.login('MTQ5NjE2NzIwNjI2MDU3NjM0Ng.G5GCpJ.92NOLWiGEohuvG3E22ImjlfXfhlIAnRg9kWiLk');
+client.login('MTQ5NjE2NzIwNjI2MDU3NjM0Ng.Go5Sed.QJZI05BU4CJswWqiRE49jj1nGqF7x9I-gW6Tps');
